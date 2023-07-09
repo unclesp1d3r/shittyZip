@@ -101,3 +101,5 @@ vendor/
 go.work
 
 bin/*
+
+dist/
