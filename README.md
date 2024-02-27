@@ -13,7 +13,7 @@ shittyZip is a simplistic zip tool developed to provide an accessible way to pra
 
 Assuming you have a working Go environment, installation is as simple as executing the following command:
 
-    go get github.com/username/shittyZip
+    go get github.com/unclesp1d3r/shittyZip
 
 ## Usage
 
